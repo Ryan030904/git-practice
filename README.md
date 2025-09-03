@@ -1,7 +1,4 @@
 # Giới thiệu
 -STT: 43
 - MSSV: 223318
-- Họ và tên: Nguyễn Trọng Quí !!
-
--MSSV: 223318
--Họ và tên: Nguyễn Trọng Quí !!
+- Họ và tên: Nguyễn Trọng Quí !!123
